@@ -1,4 +1,7 @@
 ### Hi there 👋
+Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , cada dia mais descubro minha paixão pelo processo da criação 🌱.
+Me encanto por assustos de sustentabilidade ,🌎 ecologia , vida animal🐾 , arte 🎨🎷 e tecnologia 🚀.
+
 
 <!--
 **randaltk/randaltk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
