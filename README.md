@@ -1,5 +1,5 @@
 ### Hi there 👋
-Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , cada dia mais descubro minha paixão pelo processo da criação 🌱.
+Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , cada dia descubro mais minha paixão pelo processo da criação 🌱.
 Me encanto por assustos de sustentabilidade ,🌎 ecologia , vida animal🐾 , arte 🎨🎷 e tecnologia 🚀.
 
 
