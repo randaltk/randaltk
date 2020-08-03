@@ -1,6 +1,6 @@
 ### Hi there 👋
 Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , cada dia descubro mais minha paixão pelo processo da criação 🌱.
-Me encanto por assustos de sustentabilidade ,🌎 ecologia , vida animal🐾 , arte 🎨🎷 e tecnologia 🚀.
+Me encanto por temas de sustentabilidade ,🌎 ecologia , vida animal🐾 , arte 🎨🎷 e tecnologia 🚀.
 
 
 <!--
