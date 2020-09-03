@@ -1,6 +1,19 @@
 ### Hi there 👋
-Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , cada dia descubro mais minha paixão pelo processo da criação 🌱.
-Me encanto por temas de sustentabilidade ,🌎 ecologia , vida animal🐾 , arte 🎨🎷 e tecnologia 🚀.
+# ⚡ Randal Krebs
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randal-krebs-6982871b0/)
+
+Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
+
+- 🔭 Currently working on RockSolid Professional Audio, #HashtagFinder 
+- 💬 Ask me about technologies, 
+- 📫 How to reach me: randal.t.krebs@gmail.com
+
+
+
+
+
 
 
 <!--
