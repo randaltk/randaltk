@@ -6,7 +6,7 @@
 [![BandCamp Badge](https://img.shields.io/badge/bandcamp--%238f2d07?style=for-the-badge&logo=bandcamp&logoColor=white)](https://randalkrebs.bandcamp.com//)
 
 
-Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
+Desenvolvedor Front-end, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
 - 🔭 Currently working on RockSolid Professional Audio, #HashtagFinder 
 - 💬 Ask me about technologies, 
