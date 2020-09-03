@@ -3,6 +3,7 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randal-krebs-6982871b0/)
+[![BandCamp Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randal-krebs-6982871b0/)
 
 Desenvolvedor Front-End, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
