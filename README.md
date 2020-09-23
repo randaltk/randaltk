@@ -9,7 +9,6 @@
 Desenvolvedor Front-end, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
 - 🔭 Currently working on RockSolid Professional Audio, #HashtagFinder 
-- 💬 Ask me about technologies, 
 - 📫 How to reach me: randal.t.krebs@gmail.com
 
 
