@@ -8,7 +8,7 @@
 
 Desenvolvedor Front-end, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
-- 🔭 Currently working on Cocreare Academy , RockSolid Professional Audio :sound: & Aguadeira 
+- 🔭 Currently working on Cocreare Academy :school: , RockSolid Professional Audio :sound: & Aguadeira :herb:
 - 📫 How to reach me: randal.t.krebs@gmail.com
 
 
