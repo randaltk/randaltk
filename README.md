@@ -8,7 +8,7 @@
 
 Desenvolvedor Front-end, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
-- 🔭 Currently working on QRV Consultoria :boom: , Nolan Engenharia e Inspeções :chart_with_downwards_trend: & Aguadeira :herb:
+- 🔭 Currently working on QRV Consultoria :boom: , Nolan Engenharia e Inspeções :chart_with_downwards_trend: & MetalPev Caldeiraria
 - 📫 How to reach me: randal.t.krebs@gmail.com
 
 
