@@ -8,7 +8,7 @@
 
 Desenvolvedor Front-end, produtor, baterista, amo desenvolver coisas do absoluto zero e com mais pessoas 😊 , 
 
-- 🔭 Currently working on QRV Consultoria :boom: & FTM - Equipamentos Hidraulicos de Alta Pressao  :chart_with_downwards_trend:
+- 🔭 Currently working at BEES|AmBev/Ab-Inbev 🐝 & FTM - Equipamentos Hidraulicos de Alta Pressao  :chart_with_downwards_trend:
 - 📫 How to reach me: randal.t.krebs@gmail.com
 
 
